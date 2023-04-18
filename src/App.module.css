@@ -1,0 +1,16 @@
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.counter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3vw;
+    justify-content: space-around;
+}
+.button{
+    border-color: transparent;
+}
